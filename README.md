@@ -1,5 +1,6 @@
 # AI-Study-Buddy
 Your intelligent, modular companion for effective and emotionally supportive learning.
+
 🌟 Introduction
 AI Study Buddy is not just another productivity app. It's a comprehensive, AI-powered learning partner designed to help you achieve your goals efficiently while also providing crucial emotional support throughout your journey.
 
